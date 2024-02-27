@@ -3,17 +3,17 @@
 > Identifique as principais personas e descreva suas atividades, respondendo às seguintes perguntas:
 > qual é o perfil de cada persona? O que elas esperam do produto de software?
 
-## Persona 1: Ana, a Designer Freelancer
+## Persona 1: Carlos Silva, o Produtor Rural
 
-- **Perfil:** Ana é uma designer gráfica freelancer com vasta experiência em branding e identidade visual. Ela trabalha de forma independente e gerencia vários projetos simultaneamente.
-- **Expectativas:** Ana espera que o produto de software seja uma solução completa para o gerenciamento de suas tarefas e tempo. Ela deseja uma interface intuitiva que facilite o registro, atualização e remoção de tarefas, além de uma funcionalidade de cronometragem baseada na técnica de pomodoro para melhorar sua concentração e produtividade. Ela também espera que o software permita priorizar suas atividades com base no método de Eisenhower e ofereça a integração com o Google Calendar para uma melhor organização de suas atividades diárias.
+- **Perfil:** Carlos Silva é um pequeno produtor rural, apaixonado pelo campo desde criança, crescendo em uma família que sempre teve uma pequena propriedade rural. Ele decidiu seguir os passos de seus pais e hoje é um pequeno produtor de frutas orgânicas, como morangos e maçãs, em sua fazenda no interior do Brasil.
+- **Expectativas:** Apesar de sua paixão pela agricultura, Carlos enfrenta desafios na gestão de seu negócio. Ele muitas vezes se sente sobrecarregado com as tarefas de registro de estoque, controle de despesas e acompanhamento das finanças diárias. Ele tentou usar planilhas para se organizar, mas a complexidade dessas ferramentas o deixou frustrado
 
-- **Atividades:** Ana utiliza o software para criar e monitorar suas tarefas em diferentes projetos, utiliza a técnica de pomodoro para manter o foco e evitar distrações, prioriza suas atividades com base na importância e urgência, e integra o calendário do Google para melhorar sua programação e cumprir prazos.
+- **Atividades:** Carlos é ativo nas redes sociais, principalmente seguindo grupos e páginas relacionadas à agricultura orgânica e técnicas de cultivo. Ele procura constantemente dicas e truques para melhorar sua produtividade e eficiência. Ele está disposto a investir tempo para aprender a usar uma nova ferramenta, desde que ela realmente atenda às suas necessidades.
+  
+## Persona 2: Isabela Vidal, a Gestora Rural
 
-## Persona 2: Carlos, o Cliente Empreendedor
-
-- **Perfil:** Carlos é um empreendedor e dono de uma agência de marketing digital. Ele frequentemente contrata freelancers para desenvolver campanhas e projetos específicos para seus clientes.
-- **Expectativas:** Carlos espera que o produto de software ofereça transparência e precisão no registro do tempo gasto pelos freelancers em cada tarefa e projeto. Ele deseja receber relatórios detalhados sobre o progresso dos trabalhos contratados, para tomar decisões informadas e garantir a eficiência da equipe freelancer.
-- **Atividades:** Carlos utiliza a plataforma para monitorar os relatórios de tempo e custo fornecidos pelos freelancers contratados, utiliza as informações para validar o trabalho realizado e fazer pagamentos precisos, e realiza avaliações de desempenho com base nas métricas apresentadas pelo software. Ele também usa os dados para tomar decisões estratégicas sobre a alocação de recursos em projetos futuros.
+- **Perfil:** Isabela Santos cresceu em uma família com raízes profundas na agricultura. Após concluir seus estudos em agronomia, ela assumiu a gestão da fazenda da família, buscando modernizar as práticas agrícolas
+- **Expectativas:** Ao assumir a gestão, Isabela percebeu a falta de visibilidade sobre todas as operações da fazenda, desde o plantio até a colheita, o que dificultava o planejamento eficient e, os desafios na gestão financeira tornaram-se evidentes, com dificuldades em controlar orçamentos, despesas e receitas de forma centralizada, sem dados sobre o clima e o tempo, Isabela encontrava obstáculos para tomar decisões sobre o plantio, afetando a eficiência geral da fazenda
+- **Atividades:** Isabela é uma líder proativa e inovadora. Ela está aberta a novas tecnologias e soluções que possam aprimorar a gestão da fazenda. Valoriza a eficiência operacional e está disposta a investir em soluções que melhorem a produtividade
 
 [Retorna](../README.md)
